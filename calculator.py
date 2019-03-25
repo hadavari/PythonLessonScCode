@@ -2,7 +2,7 @@
 numberOne = int(input("Input the first number"))
 numberTwo = int(input("Input the second number"))
 
-print("Choose choices from 1-4")
+print("Choose choices from 1
 print("1. +")
 print("2. -")
 print("3. *")
