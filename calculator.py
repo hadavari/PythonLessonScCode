@@ -1,4 +1,3 @@
-#--------------Calculator_------------------------------------------
 numberOne = int(input("Input the first number"))
 numberTwo = int(input("Input the second number"))
 
